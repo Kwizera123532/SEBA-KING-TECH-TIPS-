@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEBA KING TECH TIPS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>SEBA KING TECH TIPS</h1>
+        <p>Your Partner for Social Media Growth, Website Creation, and Ads Management</p>
+    </header>
+    <main>
+        <section class="service">
+            <h2>Social Media Growth</h2>
+            <p>Grow your brand and reach a bigger audience across Facebook, Instagram, Twitter, and more. Our strategies help you gain real followers and engagement.</p>
+        </section>
+        <section class="service">
+            <h2>Website Creation</h2>
+            <p>Get a professional website tailored to your business or personal brand. We offer modern, responsive designs and fast delivery.</p>
+        </section>
+        <section class="service">
+            <h2>Ads Manager (Meta & Google AdSense)</h2>
+            <p>Maximize your online revenue and visibility. We manage Meta ads (Facebook & Instagram) and Google AdSense campaigns to ensure the best results for your budget.</p>
+        </section>
+        <section class="contact">
+            <h2>Contact Us</h2>
+            <form>
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Email" required>
+                <textarea placeholder="How can we help you?" required></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        &copy; 2025 SEBA KING TECH TIPS. All rights reserved.
+    </footer>
+</body>
+</html>
